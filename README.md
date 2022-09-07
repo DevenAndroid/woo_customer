@@ -1,4 +1,4 @@
-# woo_customer
+# Woo Customer
 
 A new Flutter project.
 
